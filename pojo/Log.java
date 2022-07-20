@@ -15,5 +15,4 @@ public class Log {
     private String logDetail; //详情
     private String logIp; //ip
     private String hh;
-    private String ss;
 }
