@@ -14,5 +14,4 @@ public class Log {
     private String logType; //类型
     private String logDetail; //详情
     private String logIp; //ip
-    private String hh;
 }
